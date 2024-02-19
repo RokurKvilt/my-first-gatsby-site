@@ -1,5 +1,6 @@
 import * as React from "react"
 
+
 const pageStyles = {
   color: "#232129",
   padding: 96,
@@ -132,7 +133,7 @@ const IndexPage = () => {
         <span style={headingAccentStyles}>— you just made a Gatsby site! 🎉🎉🎉</span>
       </h1>
       <p style={paragraphStyles}>
-        Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
+        Edit <code style={codeStyles}>src/pages/index.js</code> to se this page
         update in real-time. 😎
       </p>
       <ul style={listStyles}>
