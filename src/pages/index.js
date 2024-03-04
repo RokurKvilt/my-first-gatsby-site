@@ -8,8 +8,8 @@ const IndexPage = () => {
   return (
     <main>
       <h1>Welcome to my Gatsby site!</h1>
-      <Link to="/about">About</Link>
-      <Link to="/signup">Sign Up</Link>
+      <Link to="/about" className="link">About</Link>
+      <Link to="/signup" className="link">Sign Up</Link>
       <p>I'm making this by following the Gatsby Tutorial.</p>
     </main>
   )
