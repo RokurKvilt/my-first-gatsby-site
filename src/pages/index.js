@@ -6,6 +6,7 @@ const IndexPage = () => {
     <main>
       <h1>Welcome to my Gatsby site!</h1>
       <Link to="/about">About</Link>
+      <Link to="/signup">Sign Up</Link>
       <p>I'm making this by following the Gatsby Tutorial.</p>
     </main>
   )
