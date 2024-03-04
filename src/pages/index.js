@@ -1,5 +1,8 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
+import '../styles/styles.css'; // Import your CSS file
+
+
 
 const IndexPage = () => {
   return (
